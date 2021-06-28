@@ -644,7 +644,7 @@
       </tags>
   </entry>
   <entry>
-    <title>偶研谈 | りみ友 饼饼</title>
+    <title>偶研谈 | りみ友、Popiper 饼饼</title>
     <url>/%E8%AE%BF%E8%B0%88/4/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><img src="https://cdn.jsdelivr.net/gh/ikenkyu/ikenkyu.github.io@img/interview-bingbing/%E5%81%B6%E7%A0%94%E8%B0%88_No.004.png" alt="偶研谈 No.004"></p>
 <p>本企划的第四篇访谈文章。今日的采访对象是饼饼，一名りみ友。</p>
@@ -726,27 +726,27 @@
 <p>（图片由受访者提供）</p>
 <p><span style="font-size:x-small">附：饼饼的推荐歌单</span></p>
 
-    <div id="aplayer-YmMvyisu" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-RognrVGy" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="405377254" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div>
 
 
-    <div id="aplayer-piZpSFYM" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-KcCubkhM" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="456185161" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div>
 
 
-    <div id="aplayer-TkUAfHgZ" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-yzeMvbLa" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="546730054" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div>
 
 
-        <div id="aplayer-HJndwKxP" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-nUsmNpjN" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-HJndwKxP"),
+            element: document.getElementById("aplayer-nUsmNpjN"),
             narrow: false,
             autoplay: false,
             showlrc: 3,
@@ -763,7 +763,7 @@
         </script>
 
 
-    <div id="aplayer-JyuugEXp" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-eXrvUVkI" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="1457764741" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div>
 
