@@ -67,7 +67,7 @@
 
   <url>
     <loc>https://ikenkyu.net/</loc>
-    <lastmod>2021-06-29</lastmod>
+    <lastmod>2021-08-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,63 +75,63 @@
   
   <url>
     <loc>https://ikenkyu.net/tags/%E7%AE%80%E4%BB%8B/</loc>
-    <lastmod>2021-06-29</lastmod>
+    <lastmod>2021-08-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://ikenkyu.net/tags/%E8%AE%BF%E8%B0%88/</loc>
-    <lastmod>2021-06-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ikenkyu.net/tags/LoveLive/</loc>
-    <lastmod>2021-06-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ikenkyu.net/tags/%CE%BC-s/</loc>
-    <lastmod>2021-06-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ikenkyu.net/tags/Aqours/</loc>
-    <lastmod>2021-06-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ikenkyu.net/tags/%E5%A3%B0%E4%BC%98/</loc>
-    <lastmod>2021-06-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ikenkyu.net/tags/%E5%81%B6%E5%83%8F%E5%A4%A7%E5%B8%88/</loc>
-    <lastmod>2021-06-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ikenkyu.net/tags/%E8%A5%BF%E6%9C%AC%E3%82%8A%E3%81%BF/</loc>
-    <lastmod>2021-06-29</lastmod>
+    <lastmod>2021-08-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://ikenkyu.net/tags/BanG-Dream/</loc>
-    <lastmod>2021-06-29</lastmod>
+    <lastmod>2021-08-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ikenkyu.net/tags/%E8%A5%BF%E6%9C%AC%E3%82%8A%E3%81%BF/</loc>
+    <lastmod>2021-08-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ikenkyu.net/tags/%E5%81%B6%E5%83%8F%E5%A4%A7%E5%B8%88/</loc>
+    <lastmod>2021-08-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ikenkyu.net/tags/LoveLive/</loc>
+    <lastmod>2021-08-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ikenkyu.net/tags/%CE%BC-s/</loc>
+    <lastmod>2021-08-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ikenkyu.net/tags/Aqours/</loc>
+    <lastmod>2021-08-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ikenkyu.net/tags/%E5%A3%B0%E4%BC%98/</loc>
+    <lastmod>2021-08-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -140,14 +140,14 @@
   
   <url>
     <loc>https://ikenkyu.net/categories/article/</loc>
-    <lastmod>2021-06-29</lastmod>
+    <lastmod>2021-08-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://ikenkyu.net/categories/interview/</loc>
-    <lastmod>2021-06-29</lastmod>
+    <lastmod>2021-08-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
